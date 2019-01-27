@@ -1,6 +1,6 @@
-No.,country,people,area(kilometer),density (per square kilometer)
-2,Singapore,5612300,720,7796
-10,Taiwan,23562318,36197,651
-13,Korea,48754657,99600,490
-23,India,1189172906,3287590,362
-27,Japan,127270000,377835,337
+No.,country,people,area(kilometer),density (per square kilometer),gdp
+2,Singapore,5612300,720,7796,323902
+10,Taiwan,23562318,36197,651,613295
+13,Korea,48754657,99600,490,1538030
+23,India,1189172906,3287590,362,2611012
+27,Japan,127270000,377835,337,4872135
